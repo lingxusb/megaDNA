@@ -4,7 +4,9 @@
 Generative pre-trained transformers (GPTs) have revolutionized the field of natural language processing. Inspired by this success, we develop a long-context generative model for genomes. Our multiscale transformer model was pre-trained on unannotated bacteriophage genome with byte-level tokenization. It generates de novo sequences up to 96K with functional genomic structure, including regulatory elements and novel proteins with phage-related functions. 
 
 ### Trained model
+The trained model is availale at:
 
 ### Reference
-- [Riboformer: A Deep Learning Framework for Predicting Context-Dependent Translation Dynamics](https://www.biorxiv.org/content/10.1101/2023.04.24.538053v1)
+- [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
+- [MEGABYTE-pytorch](https://github.com/lucidrains/MEGABYTE-pytorch)
 - Please contact shaobin@broadinstitute.org or raise an issue in the github repo with any questions about installation or usage.
