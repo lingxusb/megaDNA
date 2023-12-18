@@ -8,5 +8,5 @@ The trained model is availale at:
 
 ### Reference
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
-- [MEGABYTE-pytorch](https://github.com/lucidrains/MEGABYTE-pytorch)
+- [MEGABYTE-pytorch by Phil Wang](https://github.com/lucidrains/MEGABYTE-pytorch)
 - Please contact shaobin@broadinstitute.org or raise an issue in the github repo with any questions about installation or usage.
