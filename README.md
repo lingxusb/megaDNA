@@ -6,7 +6,7 @@ Generative pre-trained transformers (GPTs) have revolutionized the field of natu
 ### Trained model
 The trained 145M model is availale at [google drive](https://drive.google.com/file/d/1OoWq_GnOuMNOIprUfhlAQT1zJjcp4KUf/view?usp=drive_link)
 
-### model inference
+### Model inference
 coming soon...
 
 ### Reference
