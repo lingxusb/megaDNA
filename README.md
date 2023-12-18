@@ -6,6 +6,9 @@ Generative pre-trained transformers (GPTs) have revolutionized the field of natu
 ### Trained model
 The trained 145M model is availale at [google drive](https://drive.google.com/file/d/1OoWq_GnOuMNOIprUfhlAQT1zJjcp4KUf/view?usp=drive_link)
 
+### model inference
+coming soon...
+
 ### Reference
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
 - [MEGABYTE-pytorch by Phil Wang](https://github.com/lucidrains/MEGABYTE-pytorch)
