@@ -7,7 +7,7 @@ Generative pre-trained transformers (GPTs) have revolutionized the field of natu
 The trained 145M model is availale at [google drive](https://drive.google.com/file/d/1OoWq_GnOuMNOIprUfhlAQT1zJjcp4KUf/view?usp=drive_link)
 
 ### Model inference
-coming soon...
+jupyter notebook: [megaDNA_generate.ipynb](https://github.com/lingxusb/megaDNA/blob/main/megaDNA_generate.ipynb). GPU recommended.
 
 ### Reference
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
