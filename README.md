@@ -14,4 +14,4 @@ Or you can easily run the [Colab Notebook](https://colab.research.google.com/dri
 ### Reference
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
 - [MEGABYTE-pytorch by Phil Wang](https://github.com/lucidrains/MEGABYTE-pytorch)
-- Please contact shaobin@broadinstitute.org or raise an issue in the github repo with any questions.
+- Please contact shaobinlx@gmail.com or raise an issue in the github repo with any questions.
