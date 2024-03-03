@@ -42,6 +42,23 @@ Please check our jupyter notebook: [megaDNA_generate.ipynb](https://github.com/l
 
 Or you can easily run the [Colab Notebook](https://colab.research.google.com/drive/1T7pDY-pL2aJk8mogUKhDu5DpG9r7bjv4?usp=sharing) in the browser. Please make sure to connect to a GPU instance (e.g. T4 GPU).
 
+### Model embeddings and loss
+```python
+# a random input sequence
+encoded_sequence = np.random.choice(np.arange(1,5), 100)
+input_seq = torch.tensor(encoded_sequence).unsqueeze(0).to(device) 
+
+# get embeddings
+output = model(input_seq, return_value = 'embedding')
+
+# output[0:3] stores embeddings from three transformer layers.
+
+# get model loss
+output = model(input_seq, return_value = 'loss')
+
+print(output)
+```
+
 ### Reference
 - [A long-context language model for deciphering and generating bacteriophage genomes](https://www.biorxiv.org/content/10.1101/2023.12.18.572218v3)
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
