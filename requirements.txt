@@ -1,0 +1,6 @@
+tqdm
+torch
+numpy
+einops
+beartype
+MEGABYTE_pytorch
