@@ -1,5 +1,6 @@
 # megaDNA: A long-context language model for the generation of bacteriophage genomes
-![Online_figure](https://github.com/lingxusb/megaDNA/assets/12596418/ef85a641-0a79-4232-9d09-4abf498f04be)
+![Online_figure](https://github.com/lingxusb/megaDNA/assets/12596418/e2c2d658-758b-4b95-84a6-2126422c05ce)
+
 
 Generative pre-trained transformers (GPTs) have revolutionized the field of natural language processing. Inspired by the success of large language models, we develop a long-context generative model for genomes. Our multiscale transformer model was pre-trained on unannotated bacteriophage genomes with byte-level tokenization. We demonstrate the foundational capabilities of our model including the prediction of essential genes, genetic variant effects, regulatory element activity and taxonomy of unannotated sequences. Furthermore, it generates de novo sequences up to 96K base pairs, which contain functional regulatory elements and novel proteins with phage-related functions.
 
