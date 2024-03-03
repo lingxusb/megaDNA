@@ -1,4 +1,4 @@
-# megaDNA: A long-context language model for the generation of bacteriophage genomes
+# megaDNA: a long-context language model for deciphering and generating bacteriophage genomes
 ![Online_figure](https://github.com/lingxusb/megaDNA/assets/12596418/e2c2d658-758b-4b95-84a6-2126422c05ce)
 
 
