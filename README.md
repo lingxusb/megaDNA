@@ -36,13 +36,14 @@ The trained 145M model is availale at [huggingface](https://huggingface.co/lingx
  def token2nucleotide(s):
      return nucleotides[s]
  generated_sequence = ''.join(map(token2nucleotide, seq_tokenized.squeeze().cpu().int()))
+ ```
 
 Please check our jupyter notebook: [megaDNA_generate.ipynb](https://github.com/lingxusb/megaDNA/blob/main/notebook/megaDNA_generate.ipynb). GPU recommended.
 
 Or you can easily run the [Colab Notebook](https://colab.research.google.com/drive/1T7pDY-pL2aJk8mogUKhDu5DpG9r7bjv4?usp=sharing) in the browser. Please make sure to connect to a GPU instance (e.g. T4 GPU).
 
 ### Reference
-- [A long-context language model for deciphering and generating bacteriophage genomes] (https://www.biorxiv.org/content/10.1101/2023.12.18.572218v3)
+- [A long-context language model for deciphering and generating bacteriophage genomes](https://www.biorxiv.org/content/10.1101/2023.12.18.572218v3)
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
 - [MEGABYTE-pytorch by Phil Wang](https://github.com/lucidrains/MEGABYTE-pytorch)
 - Please contact shaobinlx@gmail.com or raise an issue in the github repo with any questions.
