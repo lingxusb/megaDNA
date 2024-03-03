@@ -40,7 +40,7 @@ The trained 145M model is availale at [huggingface](https://huggingface.co/lingx
 
 Please check our jupyter notebook: [megaDNA_generate.ipynb](https://github.com/lingxusb/megaDNA/blob/main/notebook/megaDNA_generate.ipynb). GPU recommended.
 
-Or you can easily run the [Colab Notebook](https://colab.research.google.com/drive/1T7pDY-pL2aJk8mogUKhDu5DpG9r7bjv4?usp=sharing) in the browser. Please make sure to connect to a GPU instance (e.g. T4 GPU).
+Or you can easily run the [Colab Notebook](https://colab.research.google.com/drive/13C9uyKfziydSiWGyD3nxacx0-zG_irqV?usp=sharing) in the browser. Please make sure to connect to a GPU instance (e.g. T4 GPU).
 
 ### Model embeddings and loss
 ```python
