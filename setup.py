@@ -7,7 +7,7 @@ setup(
     name = 'megaDNA',
     packages = find_packages(),
     version = '1.0',
-    license =  'MIT',
+    license =  'CC BY-NC 4.0',
     description = 'MegaDNA: a long-context generative model of bacteriophage genome',
     author = 'Bin Shao, Jiawei Yan',
     url = 'https://github.com/lingxusb/megaDNA',
