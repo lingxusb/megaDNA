@@ -43,6 +43,19 @@ Please check our jupyter notebook: [megaDNA_generate.ipynb](https://github.com/l
 
 Or you can easily run the [Colab Notebook](https://colab.research.google.com/drive/13C9uyKfziydSiWGyD3nxacx0-zG_irqV?usp=sharing) in the browser. Please make sure to connect to a GPU instance (e.g. T4 GPU).
 
+**Features for the generated sequences**
+- Annotated genes (Fig. 2b)
+- Annotated proteins with diverse functions (Fig. 2i & Fig. S12)
+- Folding of annotated proteins (Fig. 2h & Fig. S11)
+- Virus score that is comparable with natural phages (Fig. 2c)
+- Marker genes for phage (Fig. 2h)
+- Classified as Caudoviricetes (~37%, Fig. 2d)
+- Predicted hosts (~40%, Fig. S9)
+- Regulatory elements  including promoters and RBS (Fig. 2f, 2g, Fig. S10)
+
+Please check our [preprint](https://www.biorxiv.org/content/10.1101/2023.12.18.572218v3) for more details.
+
+
 ### Model embeddings and loss
 ```python
 # a random input sequence
