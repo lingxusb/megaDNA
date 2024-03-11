@@ -13,7 +13,7 @@ To install `megaDNA`, run the following bash script:
  ```
 
 ### Trained model
-The trained 145M model is availale at [huggingface](https://huggingface.co/lingxusb/megaDNA_updated/tree/main)
+The trained 145M model is availale at [huggingface](https://huggingface.co/lingxusb/megaDNA_updated/tree/main). For other model sizes, please check [here](https://huggingface.co/lingxusb/megaDNA_variants).
 
 ### Sequence generation
 ```python
