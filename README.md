@@ -13,7 +13,9 @@ To install `megaDNA`, run the following bash script:
  ```
 
 ### Trained model
-The trained 145M model is availale at [huggingface](https://huggingface.co/lingxusb/megaDNA_updated/tree/main). For other model sizes, please check [here](https://huggingface.co/lingxusb/megaDNA_variants).
+- The original model: [megaDNA_145M](https://huggingface.co/lingxusb/megaDNA_updated/tree/main).
+- Other model sizes: [megaDNA_78M and megaDNA_277M](https://huggingface.co/lingxusb/megaDNA_variants).
+- Fine-tuned model on E. coli phage: [megaDNA_ecoli](https://huggingface.co/lingxusb/megaDNA_finetuned).
 
 ### Sequence generation
 ```python
