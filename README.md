@@ -78,9 +78,6 @@ print(output)
 ### In silico mutagenesis analysis
 Please check our jupyter notebook: [megaDNA_mutagenesis.ipynb](https://github.com/lingxusb/megaDNA/blob/main/notebook/megaDNA_mutagenesis.ipynb). Fasta file and gene annotation for lambda phage can be downloaded from https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1
 
-### Protein-DNA interactions
-Application of Categorical Jacobian & megaDNA to study protein-DNA interaction in lambda phage cI/cII system. We have successfully uncovered the interaction of cI operators and cI protein HTH domain. Please check this [Colab notebook](https://colab.research.google.com/drive/1HOJy7nrwMmRWdtCqKp4PDHRgVAJxP2gO?usp=sharing) to reproduce these results.
-
 ### Reference
 - [A long-context language model for deciphering and generating bacteriophage genomes](https://www.biorxiv.org/content/10.1101/2023.12.18.572218v3)
 - [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
